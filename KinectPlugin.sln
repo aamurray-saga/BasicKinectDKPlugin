@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KinectPlugin", "KinectPlugin\KinectPlugin.vcxproj", "{65AC519B-7815-4967-9B6D-710119333EA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DLL|x64 = DLL|x64
+		DLL|x86 = DLL|x86
+		EXE|x64 = EXE|x64
+		EXE|x86 = EXE|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65AC519B-7815-4967-9B6D-710119333EA8}.DLL|x64.ActiveCfg = DLL|x64
+		{65AC519B-7815-4967-9B6D-710119333EA8}.DLL|x64.Build.0 = DLL|x64
+		{65AC519B-7815-4967-9B6D-710119333EA8}.DLL|x86.ActiveCfg = DLL|Win32
+		{65AC519B-7815-4967-9B6D-710119333EA8}.DLL|x86.Build.0 = DLL|Win32
+		{65AC519B-7815-4967-9B6D-710119333EA8}.EXE|x64.ActiveCfg = EXE|x64
+		{65AC519B-7815-4967-9B6D-710119333EA8}.EXE|x64.Build.0 = EXE|x64
+		{65AC519B-7815-4967-9B6D-710119333EA8}.EXE|x86.ActiveCfg = EXE|Win32
+		{65AC519B-7815-4967-9B6D-710119333EA8}.EXE|x86.Build.0 = EXE|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC4A5B92-0E94-4629-874B-2C4B1FD8301E}
+	EndGlobalSection
+EndGlobal
